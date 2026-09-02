@@ -1,5 +1,8 @@
 ## Hi there 👋
+꿈을향한 도전 <br>
 We are KOOKMIN-RACING <img width="480" height="320" alt="SouthKoreaFlagGIF" src="https://github.com/user-attachments/assets/4ccf322f-42cc-407a-80e7-30290c5aca32" />
+<br>
+KOOKMIN RACING is making a Student Formular to participate in competitions including Forumla SAE. WE build high performance vehicles as well as our engineering abilities on our own. 
 
 10x Consecutive Formula Student Korea Champions <br>
 FSAE Michigan 2026 (EV) <br>
