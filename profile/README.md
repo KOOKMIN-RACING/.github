@@ -1,8 +1,8 @@
 ## Hi there 👋
 We are KOOKMIN-RACING <img width="480" height="320" alt="SouthKoreaFlagGIF" src="https://github.com/user-attachments/assets/4ccf322f-42cc-407a-80e7-30290c5aca32" />
 
-10x Consecutive Formula Student Korea Champions
-FSAE Michigan 2026 (EV) 
+10x Consecutive Formula Student Korea Champions <br>
+FSAE Michigan 2026 (EV) <br>
 Top 8 Overall & Top 3 Endurance
 
 <!--
