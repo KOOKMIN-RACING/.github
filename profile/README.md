@@ -1,5 +1,5 @@
 ## Hi there 👋
-꿈을향한 도전 <br>
+꿈에 대한 도전 <br>
 We are KOOKMIN-RACING <br>
 <img width="480" height="320" alt="SouthKoreaFlagGIF" src="https://github.com/user-attachments/assets/4ccf322f-42cc-407a-80e7-30290c5aca32" />
 <br>
